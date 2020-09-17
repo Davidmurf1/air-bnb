@@ -1,0 +1,41 @@
+
+
+body{ font-family: cursive; background-color:#E4F9F5 ; margin:0; text-align: center;  }
+
+ h1 {margin: 50px;  font-family: cursive;}
+
+.top-container 
+{ display: block; padding-top: 100px; position: relative;}
+
+ .middle-container 
+ {
+
+ }
+
+
+.bottom-cloud 
+{ position: absolute; left: 300px; bottom: 300px; }
+
+.top-cloud 
+{ position: absolute; right: 300px; top:50px; }
+
+
+/* Images classes */ 
+ .skills img  { height: 200px; width: 200px; border-radius: 200px;  }
+.profile img { height: 200px; width: 200px; border-radius: 200px;  }
+.back img { height: 200px; width: 200px; border-radius: 200px;  }
+.charles { height: 200px; width: 200px; border-radius: 200px; }
+
+
+.doggy {width: 50%; margin:auto;}
+.back{ width: 50% ;margin:auto;}
+.skills{width: 50%; margin:auto;}
+.middle-container{ width: 50% ; margin:auto; margin-top: 50px;}
+
+
+.carousel-item { height: 200px; width:200px; background-color: white;
+ }
+a {color: blue; text-decoration: none;}
+
+.ending, .bottom-container { width: 100%; background-color:#dfe6e9 ; }
+
